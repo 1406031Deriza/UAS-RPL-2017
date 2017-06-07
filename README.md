@@ -7,4 +7,4 @@ TIC angkatan 2014
 
 analisis
 
-   |
+   ||
