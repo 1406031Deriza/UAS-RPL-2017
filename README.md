@@ -7,6 +7,6 @@ TIC angkatan 2014
 
 Analisis > Desain > Produksi > Pengujian > Dialog
 
-Analisis > Membangun > Menguji > Memelihara
+-(Analisis) > Membangun > Menguji > Memelihara
 
    ||
