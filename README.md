@@ -5,6 +5,8 @@ RPL 2017
 
 TIC angkatan 2014
 
-analisis > Desain > Produksi > Pengujian > Dialog
+Analisis > Desain > Produksi > Pengujian > Dialog
+
+Analisis > Membangun > 
 
    ||
