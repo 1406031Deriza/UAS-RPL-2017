@@ -1,4 +1,4 @@
 		-Rekayasa Perangkat Lunak-
 Deriza M. Alfarizi
 #RPL 2017
---UAS RPL 'akun github' 
+--UAS RPL 'akun github' dan cara menggunakan github 
