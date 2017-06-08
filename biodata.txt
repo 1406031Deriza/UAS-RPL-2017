@@ -1,3 +1,4 @@
 nama	: Deriza M. Alfarizi
 npm	: 1406031
 alamat	: Cisurupan, Garut
+hobby	: yang berkaitan dengan seni
