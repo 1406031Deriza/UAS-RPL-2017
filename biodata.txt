@@ -3,3 +3,7 @@ npm	: 1406031
 kelas	: TIC 14
 alamat	: Cisurupan, Garut
 hobby	: yang berkaitan dengan seni
+
+
+
+              -deriza-
