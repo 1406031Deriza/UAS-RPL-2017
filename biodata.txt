@@ -1,2 +1,2 @@
 nama	: Deriza M. Alfarizi
-nama	:
+npm	: 1406031
